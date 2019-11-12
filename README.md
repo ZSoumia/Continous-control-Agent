@@ -19,7 +19,7 @@ With :
 Thus the goal is to maintain the position of the arm toward the target for as many time steps as possible.
 
 ## 2.2 Solving the environement: 
-This taks is considered silved if we reach an average reward of +30.0 over 100 episodes or more.
+This taks is considered solved if we reach an average reward of +30.0 over 100 episodes or more.
 
 ## 3. Getting started 
 If you wish to reproduce this work you need to setup the enviornement by following this section :
